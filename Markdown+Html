@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="utf-8">
+<meta name="description"content="διαφορά html markdown">
+<meta name="keywords content" ="πλεονεκτήματα και μεινεκτήματα markdown">
+<title> HTML MARKDOWN </title>
+<meta name="viewport"content="width=device-width,initial-scale=1.0"/>
+</head>
+
+<body class="γλώσσα κατασήμανσης">
+<--#container starts here-->
+<!--header starts here-->
+<header>
+
+<h1> Η γλώσσα σήμανσης υπερκειμένου HTML  είναι μια γλώσσα που βασίζεται σε
+χαρακτήρες απλού κειμένου, κατά τρόπο όμοιο με αυτό μιας γλώσσας προγραμματισμού.Ένα έγγραφο html, μπορεί εύκολα να αναγνωρισθεί απο κάποιον χρήστη
+με ένα πρόγραμμα επεξεργασίας κειμένου.</h1>
+<h1> HTML,αποτελεί βασική δομή μιας ιστοσελίδας,,καθορίζοντας τη θέση της κεφαλίδας του κειμένου πλοήγησης.</h1>
+</header>
+     <h1> Χαρακτηριστικά MARKDOWN </h1>
+ <p> Στενόγραφη σύνταξη για όλες τις πρακτικές ετικέτες html.Δίνει εμφαση στην εμφάνιση με συντακτικό που εξομοιωνει την εμφανιση.</p>
+ <p>Μπορούμε να προσαρμόσουμε ότι συντακτικό θέλουμε και συμβοτότητα με τις σύγχρονες εκδόσεις BBEdit</p>
+      <h2>Μειονεκτήματα markdown</h2>
+  <p> Απαιτεί την εκμάθηση μιας νέας  σύνταξης για την ορθή χρήση.Προσφέρει μόνο  υποστήριξη για html.</p>
+    <font color="red"size="2">
+     <em>Πλεονεκτήματα MARKDOWN </em>
+  <p> Δωρεαν, ευκολη χρηση,μετατρεπεται ευκολα σε html,εύκολα να την μάθεις.</p>
+   <strong>Σύγκριση Markdown και  html.</strong>
+  <p> Η συνταξη markdown ειναι πιο ευκολη και πιο κατανοητη απο τους ανθρωπους στο να την διαβασουν.Η html προσφερει μεγαλύτερη ευκολία στο
+   να επιτευχούν πολλά. Εν τελει το htm και το markdown εχουν κατι διαφορετικό να προσφερουν  και για το ποιο θα χρησιμοποιηθει ειναι θεμα προτιμησης.
+   </p>
+  </body>
+  
+<!--header stops here-->
+<!--navigation starts here-->
+<nav>
+ <ul class="navbar"> 
+ 
+<li><a class="aigaleolink" href="aigaleo.txt">Aigaleo</a></li>
+
+<a href="http://www.yahoo.com"target="_blank">
+</ul>
+<!--navigation stops here-->
+<!--content starts here-->
+</nav>
+<aside class="sidebari">
+<h2><span style="background-color:#bl>
+
+</aside> 
+
+<font color="003399"size="2"face=HTML,MARKDOWN,sans-serif">
+<em>Χαρακτηριστικα html και markdown.</em>
+
+<strong> Πλεονεκτηματα και μειονεκτηματα markdown. </strong>
+
